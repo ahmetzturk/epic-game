@@ -1,0 +1,27 @@
+{
+  "name": "epic-game",
+  "version": "1.0.0",
+  "description": "\"# epic-game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetzturk/epic-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetzturk/epic-game/issues"
+  },
+  "homepage": "https://github.com/ahmetzturk/epic-game#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
